@@ -51,7 +51,7 @@ Make sure to select the **ETH** network in the upperright corner of the page. On
 
 In the **Contract Address** field, paste the contract address :
 
-**0x22c090821446229553ab15285405de7d3fd822ae**
+**0xd664d92e638e9bc390454dfc980dd4f08112c68e**
 
 
 In the **ABI/JSON Interface** box, paste everything below:
